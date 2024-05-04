@@ -2,7 +2,31 @@
 
 Simple chat bot with AI using WhatsApp
 
-## Notes
+## Install and Run
+
+Use YARN package manager when installing all dependencies.
+
+```sh
+yarn install
+```
+
+**IMPORTANT:** Setup your config by copy from config-example.json as config.json
+
+Start project by this command.
+
+```sh
+yarn start
+```
+
+or
+
+```sh
+npm start
+```
+
+Wait until console showing QR code.
+
+### Notes
 
 *Use YARN as package manager instead of NPM when working with this project.
 
