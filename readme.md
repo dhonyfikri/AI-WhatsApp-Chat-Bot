@@ -1,4 +1,4 @@
-# OpenAI WhatsApp Bot
+# AI WhatsApp Bot
 
 Simple chat bot with AI using WhatsApp
 
