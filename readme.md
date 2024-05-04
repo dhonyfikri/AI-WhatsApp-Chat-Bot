@@ -8,3 +8,4 @@ Simple chat bot with AI using WhatsApp
 
 - Get OpenAi Key? [`Tap here`](https://platform.openai.com/account/api-keys)
 - Get Pawan Key by join to [`Discord server`](https://discord.pawan.krd)
+- Get OpenAiReverse project at [`OpenAiReverse`](https://github.com/dhonyfikri/OpenAiReverse) as Optional
