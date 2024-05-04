@@ -26,6 +26,10 @@ npm start
 
 Wait until console showing QR code.
 
+## Listen Whatsapp Chat
+
+When WhatsApp is connected, send "/wakeup" from owner number (see at your config.json) to enable auto AI reply. send "/sleep" to disable it.
+
 ### Notes
 
 *Use YARN as package manager instead of NPM when working with this project.
