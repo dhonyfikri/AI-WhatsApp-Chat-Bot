@@ -12,4 +12,5 @@ dist/
 .parcel-cache
 db.json
 .env
+auth_info/
 config.json
